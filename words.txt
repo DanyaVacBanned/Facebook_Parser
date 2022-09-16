@@ -1,6 +1,1 @@
-плаванию 
-плавание
-бассейне
-бассейн
-тренировка
-занятия
+*HERE CONTAINS ARE KEYWORDS FOR PARSING*
