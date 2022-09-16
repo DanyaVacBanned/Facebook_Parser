@@ -7,7 +7,7 @@ password = 'password'
 #Авторизация
 client = Client(username, password)
 link_and_text = parser.main()
-client.send(message='Есть совпадение по вашему запросу: {link_and_text}', thread_id='100002069809245', thread_type=ThreadType.USER)
+client.send(message='Есть совпадение по вашему запросу: {link_and_text}', thread_id='USER_ID', thread_type=ThreadType.USER)
 
 #id 100002069809245
 client.logout()
