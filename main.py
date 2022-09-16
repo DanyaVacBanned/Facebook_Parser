@@ -2,8 +2,8 @@ from fbchat import Client
 from fbchat.models import *
 import parser
 #Данные пользователя
-username = '+995558401496'
-password = '123456789Ks'
+username = 'username'
+password = 'password'
 #Авторизация
 client = Client(username, password)
 link_and_text = parser.main()
